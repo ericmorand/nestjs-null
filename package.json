@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@nestjs/common": "^9.1.4",
+    "@nestjs/core": "^9.1.4",
+    "@nestjs/platform-express": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.0",
+    "ts-node": "^10.9.1"
+  }
+}
